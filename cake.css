@@ -1,0 +1,13 @@
+.cake {
+    position:absolute;
+    display:none;
+    top: 10%;
+    margin-top: -100px;
+    left: 40%;;
+}
+
+.cake img {
+    align-self: center;
+    height: 300px;
+    width: 200px;
+}
